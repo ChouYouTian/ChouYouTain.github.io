@@ -1,0 +1,161 @@
+html{
+    background-color:#EDF2C5;
+    
+}
+
+
+header{
+    margin-top: 53px;
+    margin-bottom: 17px;
+    box-sizing: border-box;
+}
+
+#title{
+    font-size: 41px;
+    font-family: "Arial Black";
+    color: #778a50;
+    margin: 0;
+    vertical-align: top;
+}
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.container{
+    position: relative;
+    margin: 0 auto;
+    width: 940px;
+    box-sizing: border-box;
+    
+}
+
+header .container{
+    width: 940px;
+    height: 42px;
+    
+}
+
+.iocn{
+    
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.btn{
+    width: 50px;
+    height: 25px;
+    font: 12px Arial Black;
+    color: #778a50;
+    background-color:#EDF2C5;
+    border:1px solid;
+    border-radius: 3px;
+    border-color: #778a50;
+    padding: 3px ;
+    margin-left: 10px;     
+
+}
+
+.top-nav .container{
+    background-color: #778a50;
+    border-radius: 3px;
+}
+.top-nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font: 16px "Arial black";
+    color: #EDF2C5;
+}
+
+.top-nav li{
+    margin: 0;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    padding: 16px 30px;
+}
+
+
+.pic{
+    position: relative;
+    width: 940px;
+  
+    line-height: 0;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top:20px; 
+    margin-bottom: 30px;
+}
+
+article{
+    float: left;
+    margin-right: 52px;
+}
+
+article h2{
+    background: #778A50;
+    color: #ecf4c5;
+    font: 16px "Arial Black";
+    padding: 0;
+    padding-left: 30px; 
+    margin-bottom: 15px;
+    line-height: 45px;
+    width: 416px;
+    border-radius: 3px;
+}
+
+article figure{
+    float: left;
+    margin: 0 12px 0 0;
+    height: 140;
+}
+
+
+
+article div{
+    background-color: #f5f8d9;
+    padding: 15px;
+    color: #7d7d7d;
+    width: 416px;
+}
+
+article div p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+
+}
+.art2{
+
+    padding-left: 0;
+    float: right;
+}
+.line{
+width: 400px;
+    padding-top: 0px;
+    border-bottom:1px solid #7d7d7d;
+    margin: 14px 0;
+}
+
+
+
+footer {
+    margin-top: 35px;
+    background: #778A50;
+    color: #EDF2C5;
+    text-align: center;
+    padding: 24px 0 25px;
+    font-size: 12px;
+}
+
+footer p {
+    margin: 0;
+}
+
+.clear{
+    clear: both;
+}
